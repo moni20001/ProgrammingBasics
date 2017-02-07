@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\Fox\Fox\bin\Debug\Fox.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\Fox\Fox\bin\Debug\Fox.exe
+c:\users\moni\documents\visual studio 2015\Projects\Fox\Fox\bin\Debug\Fox.pdb
+c:\users\moni\documents\visual studio 2015\Projects\Fox\Fox\obj\Debug\Fox.exe
+c:\users\moni\documents\visual studio 2015\Projects\Fox\Fox\obj\Debug\Fox.pdb

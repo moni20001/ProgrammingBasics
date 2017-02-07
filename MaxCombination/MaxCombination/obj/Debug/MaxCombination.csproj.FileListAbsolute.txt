@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\MaxCombination\MaxCombination\bin\Debug\MaxCombination.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\MaxCombination\MaxCombination\bin\Debug\MaxCombination.exe
+c:\users\moni\documents\visual studio 2015\Projects\MaxCombination\MaxCombination\bin\Debug\MaxCombination.pdb
+c:\users\moni\documents\visual studio 2015\Projects\MaxCombination\MaxCombination\obj\Debug\MaxCombination.exe
+c:\users\moni\documents\visual studio 2015\Projects\MaxCombination\MaxCombination\obj\Debug\MaxCombination.pdb

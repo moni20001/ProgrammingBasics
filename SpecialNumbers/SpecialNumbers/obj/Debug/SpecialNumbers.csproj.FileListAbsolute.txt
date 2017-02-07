@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\SpecialNumbers\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\SpecialNumbers\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+c:\users\moni\documents\visual studio 2015\Projects\SpecialNumbers\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+c:\users\moni\documents\visual studio 2015\Projects\SpecialNumbers\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+c:\users\moni\documents\visual studio 2015\Projects\SpecialNumbers\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

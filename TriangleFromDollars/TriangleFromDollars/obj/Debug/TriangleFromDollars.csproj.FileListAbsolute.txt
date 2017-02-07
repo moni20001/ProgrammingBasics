@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\TriangleFromDollars\TriangleFromDollars\bin\Debug\TriangleFromDollars.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\TriangleFromDollars\TriangleFromDollars\bin\Debug\TriangleFromDollars.exe
+c:\users\moni\documents\visual studio 2015\Projects\TriangleFromDollars\TriangleFromDollars\bin\Debug\TriangleFromDollars.pdb
+c:\users\moni\documents\visual studio 2015\Projects\TriangleFromDollars\TriangleFromDollars\obj\Debug\TriangleFromDollars.exe
+c:\users\moni\documents\visual studio 2015\Projects\TriangleFromDollars\TriangleFromDollars\obj\Debug\TriangleFromDollars.pdb

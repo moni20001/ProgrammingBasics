@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\NumFrom0ToN\NumFrom0ToN\bin\Debug\NumFrom0ToN.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\NumFrom0ToN\NumFrom0ToN\bin\Debug\NumFrom0ToN.exe
+c:\users\moni\documents\visual studio 2015\Projects\NumFrom0ToN\NumFrom0ToN\bin\Debug\NumFrom0ToN.pdb
+c:\users\moni\documents\visual studio 2015\Projects\NumFrom0ToN\NumFrom0ToN\obj\Debug\NumFrom0ToN.exe
+c:\users\moni\documents\visual studio 2015\Projects\NumFrom0ToN\NumFrom0ToN\obj\Debug\NumFrom0ToN.pdb

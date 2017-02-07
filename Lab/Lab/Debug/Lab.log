@@ -1,0 +1,5 @@
+﻿  Lab.cpp
+c:\users\moni\documents\visual studio 2015\projects\lab\lab\lab.cpp(23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\moni\documents\visual studio 2015\projects\lab\lab\lab.cpp(29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Lab.vcxproj -> C:\Users\Moni\Documents\Visual Studio 2015\Projects\Lab\Debug\Lab.exe
+  Lab.vcxproj -> C:\Users\Moni\Documents\Visual Studio 2015\Projects\Lab\Debug\Lab.pdb (Full PDB)

@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\MagicCombination\MagicCombination\bin\Debug\MagicCombination.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\MagicCombination\MagicCombination\bin\Debug\MagicCombination.exe
+c:\users\moni\documents\visual studio 2015\Projects\MagicCombination\MagicCombination\bin\Debug\MagicCombination.pdb
+c:\users\moni\documents\visual studio 2015\Projects\MagicCombination\MagicCombination\obj\Debug\MagicCombination.exe
+c:\users\moni\documents\visual studio 2015\Projects\MagicCombination\MagicCombination\obj\Debug\MagicCombination.pdb

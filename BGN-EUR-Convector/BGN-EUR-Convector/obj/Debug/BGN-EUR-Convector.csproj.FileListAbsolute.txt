@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\BGN-EUR-Convector\BGN-EUR-Convector\bin\Debug\BGN-EUR-Convector.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\BGN-EUR-Convector\BGN-EUR-Convector\obj\Debug\BGN-EUR-Convector.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2015\Projects\BGN-EUR-Convector\BGN-EUR-Convector\obj\Debug\BGN_EUR_Convector.Form1.resources
+c:\users\moni\documents\visual studio 2015\Projects\BGN-EUR-Convector\BGN-EUR-Convector\obj\Debug\BGN_EUR_Convector.Properties.Resources.resources
+c:\users\moni\documents\visual studio 2015\Projects\BGN-EUR-Convector\BGN-EUR-Convector\obj\Debug\BGN-EUR-Convector.csproj.GenerateResource.Cache

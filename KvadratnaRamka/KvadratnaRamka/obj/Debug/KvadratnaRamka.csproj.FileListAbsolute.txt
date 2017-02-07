@@ -1,0 +1,6 @@
+c:\users\moni\documents\visual studio 2015\Projects\KvadratnaRamka\KvadratnaRamka\bin\Debug\KvadratnaRamka.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\KvadratnaRamka\KvadratnaRamka\bin\Debug\KvadratnaRamka.exe
+c:\users\moni\documents\visual studio 2015\Projects\KvadratnaRamka\KvadratnaRamka\bin\Debug\KvadratnaRamka.pdb
+c:\users\moni\documents\visual studio 2015\Projects\KvadratnaRamka\KvadratnaRamka\obj\Debug\KvadratnaRamka.exe
+c:\users\moni\documents\visual studio 2015\Projects\KvadratnaRamka\KvadratnaRamka\obj\Debug\KvadratnaRamka.pdb
+c:\users\moni\documents\visual studio 2015\Projects\KvadratnaRamka\KvadratnaRamka\obj\Debug\KvadratnaRamka.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\SumNumToString\SumNumToString\bin\Debug\SumNumToString.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\SumNumToString\SumNumToString\bin\Debug\SumNumToString.exe
+c:\users\moni\documents\visual studio 2015\Projects\SumNumToString\SumNumToString\bin\Debug\SumNumToString.pdb
+c:\users\moni\documents\visual studio 2015\Projects\SumNumToString\SumNumToString\obj\Debug\SumNumToString.exe
+c:\users\moni\documents\visual studio 2015\Projects\SumNumToString\SumNumToString\obj\Debug\SumNumToString.pdb

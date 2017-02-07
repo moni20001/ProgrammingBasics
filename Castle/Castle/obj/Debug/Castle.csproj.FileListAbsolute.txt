@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\Castle\Castle\bin\Debug\Castle.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\Castle\Castle\bin\Debug\Castle.exe
+c:\users\moni\documents\visual studio 2015\Projects\Castle\Castle\bin\Debug\Castle.pdb
+c:\users\moni\documents\visual studio 2015\Projects\Castle\Castle\obj\Debug\Castle.exe
+c:\users\moni\documents\visual studio 2015\Projects\Castle\Castle\obj\Debug\Castle.pdb

@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+c:\users\moni\documents\visual studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+c:\users\moni\documents\visual studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+c:\users\moni\documents\visual studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

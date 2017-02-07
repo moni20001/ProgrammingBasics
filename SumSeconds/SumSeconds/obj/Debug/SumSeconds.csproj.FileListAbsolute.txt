@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\SumSeconds\SumSeconds\bin\Debug\SumSeconds.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\SumSeconds\SumSeconds\bin\Debug\SumSeconds.exe
+c:\users\moni\documents\visual studio 2015\Projects\SumSeconds\SumSeconds\bin\Debug\SumSeconds.pdb
+c:\users\moni\documents\visual studio 2015\Projects\SumSeconds\SumSeconds\obj\Debug\SumSeconds.exe
+c:\users\moni\documents\visual studio 2015\Projects\SumSeconds\SumSeconds\obj\Debug\SumSeconds.pdb

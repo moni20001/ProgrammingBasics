@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\RombFromStars\RombFromStars\bin\Debug\RombFromStars.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\RombFromStars\RombFromStars\bin\Debug\RombFromStars.exe
+c:\users\moni\documents\visual studio 2015\Projects\RombFromStars\RombFromStars\bin\Debug\RombFromStars.pdb
+c:\users\moni\documents\visual studio 2015\Projects\RombFromStars\RombFromStars\obj\Debug\RombFromStars.exe
+c:\users\moni\documents\visual studio 2015\Projects\RombFromStars\RombFromStars\obj\Debug\RombFromStars.pdb

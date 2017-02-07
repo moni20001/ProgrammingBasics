@@ -1,0 +1,6 @@
+c:\users\moni\documents\visual studio 2015\Projects\Rectange10x10\Rectange10x10\bin\Debug\Rectange10x10.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\Rectange10x10\Rectange10x10\bin\Debug\Rectange10x10.exe
+c:\users\moni\documents\visual studio 2015\Projects\Rectange10x10\Rectange10x10\bin\Debug\Rectange10x10.pdb
+c:\users\moni\documents\visual studio 2015\Projects\Rectange10x10\Rectange10x10\obj\Debug\Rectange10x10.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2015\Projects\Rectange10x10\Rectange10x10\obj\Debug\Rectange10x10.exe
+c:\users\moni\documents\visual studio 2015\Projects\Rectange10x10\Rectange10x10\obj\Debug\Rectange10x10.pdb

@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\DelenieBezOstatuk2.0\DelenieBezOstatuk2.0\bin\Debug\DelenieBezOstatuk2.0.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\DelenieBezOstatuk2.0\DelenieBezOstatuk2.0\bin\Debug\DelenieBezOstatuk2.0.exe
+c:\users\moni\documents\visual studio 2015\Projects\DelenieBezOstatuk2.0\DelenieBezOstatuk2.0\bin\Debug\DelenieBezOstatuk2.0.pdb
+c:\users\moni\documents\visual studio 2015\Projects\DelenieBezOstatuk2.0\DelenieBezOstatuk2.0\obj\Debug\DelenieBezOstatuk2.0.exe
+c:\users\moni\documents\visual studio 2015\Projects\DelenieBezOstatuk2.0\DelenieBezOstatuk2.0\obj\Debug\DelenieBezOstatuk2.0.pdb

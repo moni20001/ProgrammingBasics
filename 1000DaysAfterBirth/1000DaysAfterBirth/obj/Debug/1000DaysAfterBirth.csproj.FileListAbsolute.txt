@@ -1,0 +1,6 @@
+c:\users\moni\documents\visual studio 2015\Projects\1000DaysAfterBirth\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\1000DaysAfterBirth\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+c:\users\moni\documents\visual studio 2015\Projects\1000DaysAfterBirth\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+c:\users\moni\documents\visual studio 2015\Projects\1000DaysAfterBirth\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2015\Projects\1000DaysAfterBirth\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+c:\users\moni\documents\visual studio 2015\Projects\1000DaysAfterBirth\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb

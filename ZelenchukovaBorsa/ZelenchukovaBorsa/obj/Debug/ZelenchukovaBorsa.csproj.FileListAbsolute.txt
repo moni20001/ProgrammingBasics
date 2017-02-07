@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\ZelenchukovaBorsa\ZelenchukovaBorsa\bin\Debug\ZelenchukovaBorsa.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\ZelenchukovaBorsa\ZelenchukovaBorsa\bin\Debug\ZelenchukovaBorsa.exe
+c:\users\moni\documents\visual studio 2015\Projects\ZelenchukovaBorsa\ZelenchukovaBorsa\bin\Debug\ZelenchukovaBorsa.pdb
+c:\users\moni\documents\visual studio 2015\Projects\ZelenchukovaBorsa\ZelenchukovaBorsa\obj\Debug\ZelenchukovaBorsa.exe
+c:\users\moni\documents\visual studio 2015\Projects\ZelenchukovaBorsa\ZelenchukovaBorsa\obj\Debug\ZelenchukovaBorsa.pdb

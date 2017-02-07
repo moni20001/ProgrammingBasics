@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\GreatestCommonDivisor(CGD)\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe.config
+c:\users\moni\documents\visual studio 2015\Projects\GreatestCommonDivisor(CGD)\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe
+c:\users\moni\documents\visual studio 2015\Projects\GreatestCommonDivisor(CGD)\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).pdb
+c:\users\moni\documents\visual studio 2015\Projects\GreatestCommonDivisor(CGD)\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).exe
+c:\users\moni\documents\visual studio 2015\Projects\GreatestCommonDivisor(CGD)\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).pdb

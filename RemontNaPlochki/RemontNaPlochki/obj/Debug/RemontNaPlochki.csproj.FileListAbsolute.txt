@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\RemontNaPlochki\RemontNaPlochki\bin\Debug\RemontNaPlochki.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\RemontNaPlochki\RemontNaPlochki\bin\Debug\RemontNaPlochki.exe
+c:\users\moni\documents\visual studio 2015\Projects\RemontNaPlochki\RemontNaPlochki\bin\Debug\RemontNaPlochki.pdb
+c:\users\moni\documents\visual studio 2015\Projects\RemontNaPlochki\RemontNaPlochki\obj\Debug\RemontNaPlochki.exe
+c:\users\moni\documents\visual studio 2015\Projects\RemontNaPlochki\RemontNaPlochki\obj\Debug\RemontNaPlochki.pdb

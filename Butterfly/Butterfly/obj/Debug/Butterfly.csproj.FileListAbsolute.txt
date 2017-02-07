@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\Butterfly\Butterfly\bin\Debug\Butterfly.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\Butterfly\Butterfly\bin\Debug\Butterfly.exe
+c:\users\moni\documents\visual studio 2015\Projects\Butterfly\Butterfly\bin\Debug\Butterfly.pdb
+c:\users\moni\documents\visual studio 2015\Projects\Butterfly\Butterfly\obj\Debug\Butterfly.exe
+c:\users\moni\documents\visual studio 2015\Projects\Butterfly\Butterfly\obj\Debug\Butterfly.pdb

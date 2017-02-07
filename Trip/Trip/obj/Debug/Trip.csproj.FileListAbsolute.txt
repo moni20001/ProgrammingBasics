@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\Trip\Trip\bin\Debug\Trip.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\Trip\Trip\bin\Debug\Trip.exe
+c:\users\moni\documents\visual studio 2015\Projects\Trip\Trip\bin\Debug\Trip.pdb
+c:\users\moni\documents\visual studio 2015\Projects\Trip\Trip\obj\Debug\Trip.exe
+c:\users\moni\documents\visual studio 2015\Projects\Trip\Trip\obj\Debug\Trip.pdb

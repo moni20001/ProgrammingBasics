@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\Parichki\Parichki\bin\Debug\Parichki.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\Parichki\Parichki\bin\Debug\Parichki.exe
+c:\users\moni\documents\visual studio 2015\Projects\Parichki\Parichki\bin\Debug\Parichki.pdb
+c:\users\moni\documents\visual studio 2015\Projects\Parichki\Parichki\obj\Debug\Parichki.exe
+c:\users\moni\documents\visual studio 2015\Projects\Parichki\Parichki\obj\Debug\Parichki.pdb

@@ -1,0 +1,6 @@
+c:\users\moni\documents\visual studio 2015\Projects\Demo\Demo\bin\Debug\Demo.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\Demo\Demo\bin\Debug\Demo.exe
+c:\users\moni\documents\visual studio 2015\Projects\Demo\Demo\bin\Debug\Demo.pdb
+c:\users\moni\documents\visual studio 2015\Projects\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2015\Projects\Demo\Demo\obj\Debug\Demo.exe
+c:\users\moni\documents\visual studio 2015\Projects\Demo\Demo\obj\Debug\Demo.pdb

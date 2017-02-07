@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\EvenPowerOf2\EvenPowerOf2\bin\Debug\EvenPowerOf2.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\EvenPowerOf2\EvenPowerOf2\bin\Debug\EvenPowerOf2.exe
+c:\users\moni\documents\visual studio 2015\Projects\EvenPowerOf2\EvenPowerOf2\bin\Debug\EvenPowerOf2.pdb
+c:\users\moni\documents\visual studio 2015\Projects\EvenPowerOf2\EvenPowerOf2\obj\Debug\EvenPowerOf2.exe
+c:\users\moni\documents\visual studio 2015\Projects\EvenPowerOf2\EvenPowerOf2\obj\Debug\EvenPowerOf2.pdb

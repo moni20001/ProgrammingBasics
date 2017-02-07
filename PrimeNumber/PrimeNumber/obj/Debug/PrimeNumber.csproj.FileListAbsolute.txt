@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+c:\users\moni\documents\visual studio 2015\Projects\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+c:\users\moni\documents\visual studio 2015\Projects\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+c:\users\moni\documents\visual studio 2015\Projects\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
