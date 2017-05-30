@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{477e48ac-211b-4f9c-a1ff-87c93986d773}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile />
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+    <InterpreterVersion />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="27AugustTest\6.Sixth\obj\Debug\6.Sixth.csproj.FileListAbsolute.txt" />
+    <Content Include="27AugustTest\Fifth\obj\Debug\Fifth.csproj.FileListAbsolute.txt" />
+    <Content Include="27AugustTest\FirstExercise\obj\Debug\FirstExercise.csproj.FileListAbsolute.txt" />
+    <Content Include="27AugustTest\FirstExe\obj\Debug\1.FirstExe.csproj.FileListAbsolute.txt" />
+    <Content Include="27AugustTest\FirstExe\obj\Debug\FirstExe.csproj.FileListAbsolute.txt" />
+    <Content Include="27AugustTest\ForthExe\obj\Debug\ForthExe.csproj.FileListAbsolute.txt" />
+    <Content Include="27AugustTest\SecondExe\obj\Debug\SecondExe.csproj.FileListAbsolute.txt" />
+    <Content Include="27AugustTest\ThirdExe\obj\Debug\ThirdExe.csproj.FileListAbsolute.txt" />
+    <Content Include="CheckPrime\CheckPrime\obj\Debug\CheckPrime.csproj.FileListAbsolute.txt" />
+    <Content Include="EvenNumber\EvenNumber\obj\Debug\EvenNumber.csproj.FileListAbsolute.txt" />
+    <Content Include="EvenPowerOf2\EvenPowerOf2\obj\Debug\EvenPowerOf2.csproj.FileListAbsolute.txt" />
+    <Content Include="Exam\Exam\obj\Debug\Exam.csproj.FileListAbsolute.txt" />
+    <Content Include="Fibonachi\Fibonachi\obj\Debug\Fibonachi.csproj.FileListAbsolute.txt" />
+    <Content Include="GDB\GDB\obj\Debug\GDB.csproj.FileListAbsolute.txt" />
+    <Content Include="NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.csproj.FileListAbsolute.txt" />
+    <Content Include="NumberTable\NumberTable\obj\Debug\NumberTable.csproj.FileListAbsolute.txt" />
+    <Content Include="OddLines\OddLines\bin\Debug\entry.txt" />
+    <Content Include="OddLines\OddLines\bin\Debug\output.txt" />
+    <Content Include="OddLines\OddLines\bin\Debug\text.txt" />
+    <Content Include="OddLines\OddLines\bin\Debug\words.txt" />
+    <Content Include="OddLines\OddLines\obj\Debug\OddLines.csproj.FileListAbsolute.txt" />
+    <Content Include="PokerProject\PokerProject\obj\Debug\PokerProject.csproj.FileListAbsolute.txt" />
+    <Content Include="Sequance2k\Sequance2k\obj\Debug\Sequance2k.csproj.FileListAbsolute.txt" />
+    <Content Include="WordCount\WordCount\bin\Debug\output.txt" />
+    <Content Include="WordCount\WordCount\bin\Debug\text.txt" />
+    <Content Include="WordCount\WordCount\bin\Debug\words.txt" />
+    <Content Include="WordCount\WordCount\obj\Debug\WordCount.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="27AugustTest\6.Sixth\obj\Debug" />
+    <Folder Include="27AugustTest\Fifth\obj\Debug" />
+    <Folder Include="27AugustTest\FirstExercise\obj\Debug" />
+    <Folder Include="27AugustTest\FirstExe\obj\Debug" />
+    <Folder Include="27AugustTest\ForthExe\obj\Debug" />
+    <Folder Include="27AugustTest\SecondExe\obj\Debug" />
+    <Folder Include="27AugustTest\ThirdExe\obj\Debug" />
+    <Folder Include="CheckPrime\CheckPrime\obj\Debug" />
+    <Folder Include="EvenNumber\EvenNumber\obj\Debug" />
+    <Folder Include="EvenPowerOf2\EvenPowerOf2\obj\Debug" />
+    <Folder Include="Exam\Exam\obj\Debug" />
+    <Folder Include="Fibonachi\Fibonachi\obj\Debug" />
+    <Folder Include="GDB\GDB\obj\Debug" />
+    <Folder Include="NumberPyramid\NumberPyramid\obj\Debug" />
+    <Folder Include="NumberTable\NumberTable\obj\Debug" />
+    <Folder Include="OddLines\OddLines\bin\Debug" />
+    <Folder Include="OddLines\OddLines\obj\Debug" />
+    <Folder Include="PokerProject\PokerProject\obj\Debug" />
+    <Folder Include="Sequance2k\Sequance2k\obj\Debug" />
+    <Folder Include="WordCount\WordCount\bin\Debug" />
+    <Folder Include="WordCount\WordCount\obj\Debug" />
+  </ItemGroup>
+  <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
+</Project>

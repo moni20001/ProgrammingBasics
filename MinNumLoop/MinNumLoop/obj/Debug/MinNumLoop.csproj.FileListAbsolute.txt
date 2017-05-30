@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\MinNumLoop\MinNumLoop\bin\Debug\MinNumLoop.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\MinNumLoop\MinNumLoop\bin\Debug\MinNumLoop.exe
+c:\users\moni\documents\visual studio 2015\Projects\MinNumLoop\MinNumLoop\bin\Debug\MinNumLoop.pdb
+c:\users\moni\documents\visual studio 2015\Projects\MinNumLoop\MinNumLoop\obj\Debug\MinNumLoop.exe
+c:\users\moni\documents\visual studio 2015\Projects\MinNumLoop\MinNumLoop\obj\Debug\MinNumLoop.pdb

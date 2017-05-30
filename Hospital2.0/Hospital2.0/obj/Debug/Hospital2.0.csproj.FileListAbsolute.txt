@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\Hospital2.0\Hospital2.0\bin\Debug\Hospital2.0.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\Hospital2.0\Hospital2.0\bin\Debug\Hospital2.0.exe
+c:\users\moni\documents\visual studio 2015\Projects\Hospital2.0\Hospital2.0\bin\Debug\Hospital2.0.pdb
+c:\users\moni\documents\visual studio 2015\Projects\Hospital2.0\Hospital2.0\obj\Debug\Hospital2.0.exe
+c:\users\moni\documents\visual studio 2015\Projects\Hospital2.0\Hospital2.0\obj\Debug\Hospital2.0.pdb

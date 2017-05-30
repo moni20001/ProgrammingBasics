@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\6.Sixth\bin\Debug\6.Sixth.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\6.Sixth\bin\Debug\6.Sixth.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\6.Sixth\bin\Debug\6.Sixth.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\6.Sixth\obj\Debug\6.Sixth.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\6.Sixth\obj\Debug\6.Sixth.pdb

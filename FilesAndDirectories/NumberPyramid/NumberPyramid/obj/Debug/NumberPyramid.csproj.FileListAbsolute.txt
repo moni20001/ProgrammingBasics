@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberPyramid\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberPyramid\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberPyramid\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.pdb

@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\HousePrice\HousePrice\bin\Debug\HousePrice.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\HousePrice\HousePrice\bin\Debug\HousePrice.exe
+c:\users\moni\documents\visual studio 2015\Projects\HousePrice\HousePrice\bin\Debug\HousePrice.pdb
+c:\users\moni\documents\visual studio 2015\Projects\HousePrice\HousePrice\obj\Debug\HousePrice.exe
+c:\users\moni\documents\visual studio 2015\Projects\HousePrice\HousePrice\obj\Debug\HousePrice.pdb

@@ -1,21 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Program
+namespace Distance
 {
-    static void Main(string[] args)
+    class Program
     {
-        var speed = double.Parse(Console.ReadLine());
-        var first = double.Parse(Console.ReadLine())/60;
-        var second =double.Parse(Console.ReadLine())/60;
-        var third = double.Parse(Console.ReadLine())/60;
-        var sum = speed * first;
-        
-        var sum1 = (speed + speed * 0.10) * second;
-        speed = speed * 0.10 + speed;
-
-        var sum2 = (speed - (speed * 0.05)) * third;
-        Console.WriteLine("{0:f2}",sum+ sum1 + sum2);
-        
+        static void Main(string[] args)
+        {
+        }
     }
 }
-

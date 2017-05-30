@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\SecondExe\bin\Debug\SecondExe.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\SecondExe\bin\Debug\SecondExe.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\SecondExe\bin\Debug\SecondExe.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\SecondExe\obj\Debug\SecondExe.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\SecondExe\obj\Debug\SecondExe.pdb

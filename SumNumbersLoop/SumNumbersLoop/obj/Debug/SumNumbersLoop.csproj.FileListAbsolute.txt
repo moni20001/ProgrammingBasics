@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\SumNumbersLoop\SumNumbersLoop\bin\Debug\SumNumbersLoop.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\SumNumbersLoop\SumNumbersLoop\bin\Debug\SumNumbersLoop.exe
+c:\users\moni\documents\visual studio 2015\Projects\SumNumbersLoop\SumNumbersLoop\bin\Debug\SumNumbersLoop.pdb
+c:\users\moni\documents\visual studio 2015\Projects\SumNumbersLoop\SumNumbersLoop\obj\Debug\SumNumbersLoop.exe
+c:\users\moni\documents\visual studio 2015\Projects\SumNumbersLoop\SumNumbersLoop\obj\Debug\SumNumbersLoop.pdb

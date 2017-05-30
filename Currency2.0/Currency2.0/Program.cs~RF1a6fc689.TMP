@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        var money = double.Parse(Console.ReadLine());
+        var first = Console.ReadLine().ToLower();
+        var second = Console.ReadLine().ToLower();
+        Dictionary<string, double> currensies = new Dictionary<string, double>()
+        {
+            {"bgn",1},
+            {"usd", 1.79549},
+            {"eur",1.95583},
+            {"gbp",2.53405}
+        };
+        var result = money * (currensies[first] / currensies[second]);
+        Console.WriteLine("{0:f2} {1}",result,second);
+        }
+    }
+
+

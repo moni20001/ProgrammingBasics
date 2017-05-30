@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExe\bin\Debug\FirstExe.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExe\bin\Debug\FirstExe.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExe\bin\Debug\FirstExe.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExe\obj\Debug\FirstExe.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExe\obj\Debug\FirstExe.pdb

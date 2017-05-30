@@ -1,0 +1,8 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExercise\bin\Debug\FirstExercise.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExercise\bin\Debug\FirstExercise.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExercise\bin\Debug\FirstExercise.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExercise\obj\Debug\FirstExercise.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExercise\obj\Debug\FirstExercise.Properties.Resources.resources
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExercise\obj\Debug\FirstExercise.csproj.GenerateResource.Cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExercise\obj\Debug\FirstExercise.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\FirstExercise\obj\Debug\FirstExercise.pdb

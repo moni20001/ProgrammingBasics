@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\FlowersShop\FlowersShop\bin\Debug\FlowersShop.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\FlowersShop\FlowersShop\bin\Debug\FlowersShop.exe
+c:\users\moni\documents\visual studio 2015\Projects\FlowersShop\FlowersShop\bin\Debug\FlowersShop.pdb
+c:\users\moni\documents\visual studio 2015\Projects\FlowersShop\FlowersShop\obj\Debug\FlowersShop.exe
+c:\users\moni\documents\visual studio 2015\Projects\FlowersShop\FlowersShop\obj\Debug\FlowersShop.pdb

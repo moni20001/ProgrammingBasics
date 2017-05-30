@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\ThirdExe\bin\Debug\ThirdExe.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\ThirdExe\bin\Debug\ThirdExe.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\ThirdExe\bin\Debug\ThirdExe.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\ThirdExe\obj\Debug\ThirdExe.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\27AugustTest\ThirdExe\obj\Debug\ThirdExe.pdb

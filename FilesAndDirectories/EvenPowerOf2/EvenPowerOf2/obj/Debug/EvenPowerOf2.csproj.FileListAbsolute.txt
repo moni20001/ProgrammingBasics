@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\EvenPowerOf2\EvenPowerOf2\bin\Debug\EvenPowerOf2.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\EvenPowerOf2\EvenPowerOf2\bin\Debug\EvenPowerOf2.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\EvenPowerOf2\EvenPowerOf2\bin\Debug\EvenPowerOf2.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\EvenPowerOf2\EvenPowerOf2\obj\Debug\EvenPowerOf2.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\EvenPowerOf2\EvenPowerOf2\obj\Debug\EvenPowerOf2.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\EvenPowerOf2\EvenPowerOf2\obj\Debug\EvenPowerOf2.pdb

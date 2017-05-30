@@ -1,0 +1,6 @@
+c:\users\moni\documents\visual studio 2015\Projects\DrawFort\DrawFort\bin\Debug\DrawFort.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\DrawFort\DrawFort\bin\Debug\DrawFort.exe
+c:\users\moni\documents\visual studio 2015\Projects\DrawFort\DrawFort\bin\Debug\DrawFort.pdb
+c:\users\moni\documents\visual studio 2015\Projects\DrawFort\DrawFort\obj\Debug\DrawFort.csprojResolveAssemblyReference.cache
+c:\users\moni\documents\visual studio 2015\Projects\DrawFort\DrawFort\obj\Debug\DrawFort.exe
+c:\users\moni\documents\visual studio 2015\Projects\DrawFort\DrawFort\obj\Debug\DrawFort.pdb

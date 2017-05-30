@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\OddLines\OddLines\bin\Debug\OddLines.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\OddLines\OddLines\bin\Debug\OddLines.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\OddLines\OddLines\bin\Debug\OddLines.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\OddLines\OddLines\obj\Debug\OddLines.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\OddLines\OddLines\obj\Debug\OddLines.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\OddLines\OddLines\obj\Debug\OddLines.pdb

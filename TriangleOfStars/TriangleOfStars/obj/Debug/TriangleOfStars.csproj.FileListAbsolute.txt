@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\TriangleOfStars\TriangleOfStars\bin\Debug\TriangleOfStars.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\TriangleOfStars\TriangleOfStars\bin\Debug\TriangleOfStars.exe
+c:\users\moni\documents\visual studio 2015\Projects\TriangleOfStars\TriangleOfStars\bin\Debug\TriangleOfStars.pdb
+c:\users\moni\documents\visual studio 2015\Projects\TriangleOfStars\TriangleOfStars\obj\Debug\TriangleOfStars.exe
+c:\users\moni\documents\visual studio 2015\Projects\TriangleOfStars\TriangleOfStars\obj\Debug\TriangleOfStars.pdb

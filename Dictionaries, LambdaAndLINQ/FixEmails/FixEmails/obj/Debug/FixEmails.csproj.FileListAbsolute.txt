@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\FixEmails\FixEmails\bin\Debug\FixEmails.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\FixEmails\FixEmails\bin\Debug\FixEmails.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\FixEmails\FixEmails\bin\Debug\FixEmails.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\FixEmails\FixEmails\obj\Debug\FixEmails.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\FixEmails\FixEmails\obj\Debug\FixEmails.pdb

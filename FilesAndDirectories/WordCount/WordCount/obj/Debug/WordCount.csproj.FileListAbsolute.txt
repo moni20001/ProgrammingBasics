@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\WordCount\WordCount\obj\Debug\WordCount.pdb

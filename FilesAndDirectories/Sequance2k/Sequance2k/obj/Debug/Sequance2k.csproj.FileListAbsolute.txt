@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\Sequance2k\Sequance2k\bin\Debug\Sequance2k.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\Sequance2k\Sequance2k\bin\Debug\Sequance2k.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\Sequance2k\Sequance2k\bin\Debug\Sequance2k.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\Sequance2k\Sequance2k\obj\Debug\Sequance2k.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\Sequance2k\Sequance2k\obj\Debug\Sequance2k.pdb

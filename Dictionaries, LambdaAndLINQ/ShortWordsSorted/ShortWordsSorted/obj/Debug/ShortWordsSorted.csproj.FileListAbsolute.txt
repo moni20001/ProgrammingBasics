@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\ShortWordsSorted\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\ShortWordsSorted\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\ShortWordsSorted\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\ShortWordsSorted\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\ShortWordsSorted\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

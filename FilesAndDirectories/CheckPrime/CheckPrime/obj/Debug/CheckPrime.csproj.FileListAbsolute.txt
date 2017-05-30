@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\CheckPrime\CheckPrime\bin\Debug\CheckPrime.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\CheckPrime\CheckPrime\bin\Debug\CheckPrime.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\CheckPrime\CheckPrime\bin\Debug\CheckPrime.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\CheckPrime\CheckPrime\obj\Debug\CheckPrime.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\CheckPrime\CheckPrime\obj\Debug\CheckPrime.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\CheckPrime\CheckPrime\obj\Debug\CheckPrime.pdb

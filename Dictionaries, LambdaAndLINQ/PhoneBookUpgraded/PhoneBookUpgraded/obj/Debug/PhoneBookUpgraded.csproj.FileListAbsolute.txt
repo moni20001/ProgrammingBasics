@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\PhoneBookUpgraded\PhoneBookUpgraded\bin\Debug\PhoneBookUpgraded.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\PhoneBookUpgraded\PhoneBookUpgraded\bin\Debug\PhoneBookUpgraded.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\PhoneBookUpgraded\PhoneBookUpgraded\bin\Debug\PhoneBookUpgraded.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\PhoneBookUpgraded\PhoneBookUpgraded\obj\Debug\PhoneBookUpgraded.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\Dictionaries, LambdaAndLINQ\PhoneBookUpgraded\PhoneBookUpgraded\obj\Debug\PhoneBookUpgraded.pdb

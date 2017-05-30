@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberTable\NumberTable\bin\Debug\NumberTable.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberTable\NumberTable\bin\Debug\NumberTable.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberTable\NumberTable\bin\Debug\NumberTable.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberTable\NumberTable\obj\Debug\NumberTable.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\FilesAndDirectories\NumberTable\NumberTable\obj\Debug\NumberTable.pdb
